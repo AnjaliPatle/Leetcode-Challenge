@@ -6,4 +6,5 @@
   <li>Combination Sum- https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/559/week-1-october-1st-october-7th/3481/</li>
   <li>K-diff Pairs in an Array- https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/559/week-1-october-1st-october-7th/3482/</li>
   <li>Remove Covered Intervals-https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/559/week-1-october-1st-october-7th/3483/</li>
+  <li>Complement of base 10 integer-https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/559/week-1-october-1st-october-7th/3484/</li>
 </ol>

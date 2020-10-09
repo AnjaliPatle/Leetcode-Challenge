@@ -10,4 +10,5 @@
   <li>Insert into a Binary Search Tree- https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/559/week-1-october-1st-october-7th/3485/</li>
   <li>Rotate List-https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/559/week-1-october-1st-october-7th/3486/</li>
   <li>Binary Search-https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/560/week-2-october-8th-october-14th/3488/</li>
+  <li>Serialize and Deserialize BST-https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/560/week-2-october-8th-october-14th/3489/</li>
 </ol>

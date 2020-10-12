@@ -13,4 +13,5 @@
   <li>Serialize and Deserialize BST-https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/560/week-2-october-8th-october-14th/3489/</li>
   <li> Minimum Number of Arrows to Burst Balloons-https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/560/week-2-october-8th-october-14th/3490/</li>
   <li>Remove Duplicate Letters-https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/560/week-2-october-8th-october-14th/3491/</li>
+  <li>Buddy Strings-https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/560/week-2-october-8th-october-14th/3492/</li>
 </ol>

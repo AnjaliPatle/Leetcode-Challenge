@@ -14,4 +14,5 @@
   <li> Minimum Number of Arrows to Burst Balloons-https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/560/week-2-october-8th-october-14th/3490/</li>
   <li>Remove Duplicate Letters-https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/560/week-2-october-8th-october-14th/3491/</li>
   <li>Buddy Strings-https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/560/week-2-october-8th-october-14th/3492/</li>
+  <li>Sort List-https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/560/week-2-october-8th-october-14th/3493/</li>
 </ol>

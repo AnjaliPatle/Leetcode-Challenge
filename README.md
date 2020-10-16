@@ -17,4 +17,5 @@
   <li>Sort List-https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/560/week-2-october-8th-october-14th/3493/</li>
   <li>House Robber 2-https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/560/week-2-october-8th-october-14th/3494/</li>
   <li>Rotate Array-https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/561/week-3-october-15th-october-21st/3496/</li>
+  <li>Search a 2D Matrix-https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/561/week-3-october-15th-october-21st/3497/</li>
 </ol>

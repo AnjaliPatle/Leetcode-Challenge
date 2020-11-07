@@ -25,4 +25,9 @@
            Minimum Cost to Move Chips to The Same Position
      </a>
   </li>
+  <li>
+    <a href="https://leetcode.com/explore/challenge/card/november-leetcoding-challenge/564/week-1-november-1st-november-7th/3521/">
+           Find the Smallest Divisor Given a Threshold
+     </a>
+  </li>
 </ol>

@@ -11,4 +11,9 @@
       Happy Number
     </a>
   </li>
+  <li>
+    <a href="https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/528/week-1/3285/">
+      Maximum Subarray
+    </a>
+  </li>
 </ol>

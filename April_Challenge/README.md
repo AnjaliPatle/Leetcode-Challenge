@@ -16,4 +16,9 @@
       Maximum Subarray
     </a>
   </li>
+  <li>
+    <a href="https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/528/week-1/3286/">
+      Move Zeroes
+    </a>
+  </li>
 </ol>

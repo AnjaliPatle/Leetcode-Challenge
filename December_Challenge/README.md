@@ -16,18 +16,25 @@
     </a>
   </li>
   <li>
-    <a href="https://leetcode.com/explore/challenge/card/december-leetcoding-challenge/569/week-1-december-1st-december-7th/3555/">
+    <a href="https://leetcode.com/explore/challenge/card/december-leetcoding-challenge/569/week-1-december-1st-december-7th/35554/">
        The kth Factor of n
     </a>
   </li>
    <li>
-    <a href="https://leetcode.com/explore/challenge/card/december-leetcoding-challenge/569/week-1-december-1st-december-7th/3556/">
+    <a href="https://leetcode.com/explore/challenge/card/december-leetcoding-challenge/569/week-1-december-1st-december-7th/3555/">
        Can Place Flowers
     </a>
   </li>
    <li>
-    <a href="https://leetcode.com/explore/challenge/card/december-leetcoding-challenge/569/week-1-december-1st-december-7th/3557/">
+    <a href="https://leetcode.com/explore/challenge/card/december-leetcoding-challenge/569/week-1-december-1st-december-7th/3556/">
        Populating Next Right Pointers in Each Node II
     </a>
   </li>
+  <li>
+    <a href="https://leetcode.com/explore/challenge/card/december-leetcoding-challenge/569/week-1-december-1st-december-7th/3557/">
+       Spiral Matrix II
+    </a>
+  </li>
+  <li>
+   
  </ol>

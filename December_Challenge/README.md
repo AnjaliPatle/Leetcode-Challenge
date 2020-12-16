@@ -75,4 +75,9 @@
       Squares of a Sorted Array
     </a>
   </li>
+  <li>
+    <a href="https://leetcode.com/explore/challenge/card/december-leetcoding-challenge/569/week-1-december-1st-december-7th/3568/">
+      Validate Binary Search Tree
+    </a>
+  </li>
  </ol>

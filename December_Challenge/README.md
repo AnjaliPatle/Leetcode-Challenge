@@ -45,5 +45,34 @@
       Binary Search Tree Iterator
     </a>
   </li>
-   
+   <li>
+    <a href="https://leetcode.com/explore/challenge/card/december-leetcoding-challenge/569/week-1-december-1st-december-7th/3561/">
+      Valid Mountain Array
+    </a>
+  </li>
+  <li>
+    <a href="https://leetcode.com/explore/challenge/card/december-leetcoding-challenge/569/week-1-december-1st-december-7th/3562/">
+      Remove Duplicates from Sorted Array II
+    </a>
+  </li>
+  <li>
+    <a href="https://leetcode.com/explore/challenge/card/december-leetcoding-challenge/569/week-1-december-1st-december-7th/3563/">
+      Smallest Subtree with all the Deepest Nodes
+    </a>
+  </li>
+  <li>
+    <a href="https://leetcode.com/explore/challenge/card/december-leetcoding-challenge/569/week-1-december-1st-december-7th/3564/">
+      Burst Balloons
+    </a>
+  </li>
+  <li>
+    <a href="https://leetcode.com/explore/challenge/card/december-leetcoding-challenge/569/week-1-december-1st-december-7th/3565/">
+      Palindrome Partitioning
+    </a>
+  </li>
+  <li>
+    <a href="https://leetcode.com/explore/challenge/card/december-leetcoding-challenge/569/week-1-december-1st-december-7th/3567/">
+      Squares of a Sorted Array
+    </a>
+  </li>
  </ol>

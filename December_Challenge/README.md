@@ -85,4 +85,14 @@
       4Sum II
     </a>
   </li>
+  <li>
+    <a href="https://leetcode.com/explore/challenge/card/december-leetcoding-challenge/569/week-1-december-1st-december-7th/3570/">
+      Increasing Triplet Subsequence
+    </a>
+  </li>
+  <li>
+    <a href="https://leetcode.com/explore/challenge/card/december-leetcoding-challenge/569/week-1-december-1st-december-7th/3571/">
+      Cherry Pickup II
+    </a>
+  </li>
  </ol>

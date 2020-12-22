@@ -95,4 +95,14 @@
       Cherry Pickup II
     </a>
   </li>
+  <li>
+    <a href="https://leetcode.com/explore/challenge/card/december-leetcoding-challenge/569/week-1-december-1st-december-7th/3572/">
+      Decoded String at Index
+    </a>
+  </li>
+  <li>
+    <a href="https://leetcode.com/explore/challenge/card/december-leetcoding-challenge/569/week-1-december-1st-december-7th/3573/">
+      Smallest Range II
+    </a>
+  </li>
  </ol>

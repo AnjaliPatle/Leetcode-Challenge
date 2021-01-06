@@ -25,4 +25,9 @@
       Remove Duplicates from Sorted List II
     </a>
   </li>
+  <li>
+    <a href="https://leetcode.com/explore/challenge/card/january-leetcoding-challenge-2021/579/week-1-january-1st-january-7th/3594/">
+      Kth Missing Positive Number
+    </a>
+  </li>
 </ol>

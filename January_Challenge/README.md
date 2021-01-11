@@ -40,4 +40,14 @@
      Check If Two String Arrays are Equivalent
     </a>
   </li>
+   <li>
+    <a href="https://leetcode.com/explore/challenge/card/january-leetcoding-challenge-2021/580/week-2-january-8th-january-14th/3598/">
+     Word Ladder
+    </a>
+  </li>
+   <li>
+    <a href="https://leetcode.com/explore/challenge/card/january-leetcoding-challenge-2021/580/week-2-january-8th-january-14th/3599/">
+     Create Sorted Array through Instructions
+    </a>
+  </li>
 </ol>

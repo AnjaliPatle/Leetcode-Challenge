@@ -70,4 +70,9 @@
      Minimum Operations to Reduce X to Zero
     </a>
   </li>
+  <li>
+    <a href="https://leetcode.com/explore/challenge/card/january-leetcoding-challenge-2021/581/week-3-january-15th-january-21st/3605/">
+     Get Maximum in Generated Array
+    </a>
+  </li>
 </ol>

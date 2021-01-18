@@ -85,4 +85,9 @@
      Count Sorted Vowel Strings
     </a>
   </li>
+   <li>
+    <a href="https://leetcode.com/explore/challenge/card/january-leetcoding-challenge-2021/581/week-3-january-15th-january-21st/3608/">
+     Max Number of K-Sum Pairs
+    </a>
+  </li>
 </ol>

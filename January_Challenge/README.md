@@ -130,4 +130,9 @@
      Check If All 1's Are at Least Length K Places Away
     </a>
   </li>
+   <li>
+    <a href="https://leetcode.com/explore/challenge/card/january-leetcoding-challenge-2021/582/week-4-january-22nd-january-28th/3617/">
+     Path With Minimum Effort
+    </a>
+  </li>
 </ol>

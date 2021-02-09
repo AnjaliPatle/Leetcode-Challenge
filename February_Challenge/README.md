@@ -41,8 +41,8 @@
     </a>
   </li>
   <li>
-    <a href="https://leetcode.com/explore/challenge/card/february-leetcoding-challenge-2021/585/week-2-february-8th-february-14th/3633/">
-      Convert Binary Tree To Greater Tree
+    <a href="https://leetcode.com/explore/challenge/card/february-leetcoding-challenge-2021/585/week-2-february-8th-february-14th/3634/">
+      Convert BST To Greater Tree
     </a>
   </li>
  </ol>

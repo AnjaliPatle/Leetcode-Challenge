@@ -56,8 +56,13 @@
     </a>
   </li>
    <li>
-    <a href="https://leetcode.com/explore/challenge/card/february-leetcoding-challenge-2021/585/week-2-february-8th-february-14th/3636/">
+    <a href="https://leetcode.com/explore/challenge/card/february-leetcoding-challenge-2021/585/week-2-february-8th-february-14th/3637/">
       Number of Steps to Reduce a Number to Zero
+    </a>
+  </li>
+  <li>
+    <a href="https://leetcode.com/explore/challenge/card/february-leetcoding-challenge-2021/585/week-2-february-8th-february-14th/3638/">
+      Shortest Path in Binary Matrix
     </a>
   </li>
  </ol>

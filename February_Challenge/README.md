@@ -75,4 +75,9 @@
        The K Weakest Rows in a Matrix
     </a>
   </li>
+  <li>
+    <a href="https://leetcode.com/explore/challenge/card/february-leetcoding-challenge-2021/586/week-3-february-15th-february-21st/3642/">
+       Letter Case Permutation
+    </a>
+  </li>
  </ol>

@@ -7,3 +7,4 @@
 5. [Global and Local Inversions](https://leetcode.com/explore/challenge/card/april-leetcoding-challenge-2021/593/week-1-april-1st-april-7th/3697/)
 6. [Minimum Operations to Make Array Equal](https://leetcode.com/explore/challenge/card/april-leetcoding-challenge-2021/593/week-1-april-1st-april-7th/3698/)
 7. [Determine if String Halves Are Alike](https://leetcode.com/explore/challenge/card/april-leetcoding-challenge-2021/593/week-1-april-1st-april-7th/3699/)
+8. [Letter Combinations of a Phone Number](https://leetcode.com/explore/challenge/card/april-leetcoding-challenge-2021/594/week-2-april-8th-april-14th/3701/)

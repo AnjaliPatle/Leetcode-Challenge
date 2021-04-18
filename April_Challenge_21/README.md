@@ -17,3 +17,4 @@
 15. [Fibonacci Number](https://leetcode.com/explore/challenge/card/april-leetcoding-challenge-2021/595/week-3-april-15th-april-21st/3709/)
 16. [Remove All Adjacent Duplicates in String II](https://leetcode.com/explore/challenge/card/april-leetcoding-challenge-2021/595/week-3-april-15th-april-21st/3710/)
 17. [Number of Submatrices That Sum to Target](https://leetcode.com/explore/challenge/card/april-leetcoding-challenge-2021/595/week-3-april-15th-april-21st/3711/)
+18. [Remove Nth Node From End of List](https://leetcode.com/explore/challenge/card/april-leetcoding-challenge-2021/595/week-3-april-15th-april-21st/3712/)

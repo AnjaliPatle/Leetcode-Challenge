@@ -11,3 +11,4 @@
 9. [Construct Target Array With Multiple Sums](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge-2021/599/week-2-may-8th-may-14th/3737/)
 10. [Count Primes](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge-2021/599/week-2-may-8th-may-14th/3738/)
 11. [Maximum Points You Can Obtain from Cards](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge-2021/599/week-2-may-8th-may-14th/3739/)
+12. [Range Sum Query 2D - Immutable](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge-2021/599/week-2-may-8th-may-14th/3740/)

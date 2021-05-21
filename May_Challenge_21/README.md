@@ -20,3 +20,4 @@
 18. [Find Duplicate File in System](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge-2021/600/week-3-may-15th-may-21st/3747/)
 19. [Minimum Moves to Equal Array Elements II](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge-2021/600/week-3-may-15th-may-21st/3748/)
 20. [Binary Tree Level Order Traversal](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge-2021/600/week-3-may-15th-may-21st/3749/)
+21. [Find and Replace Pattern](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge-2021/600/week-3-may-15th-may-21st/3750/)

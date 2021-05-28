@@ -27,3 +27,4 @@
 25. [Evaluate Reverse Polish Notation](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge-2021/601/week-4-may-22nd-may-28th/3755/)
 26. [Partitioning Into Minimum Number Of Deci-Binary Numbers](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge-2021/601/week-4-may-22nd-may-28th/3756/)
 27. [Maximum Product of Word Lengths](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge-2021/601/week-4-may-22nd-may-28th/3757/)
+28. [Maximum Erasure Value](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge-2021/601/week-4-may-22nd-may-28th/3758/)

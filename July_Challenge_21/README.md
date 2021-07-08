@@ -7,3 +7,4 @@
 4. [Count Vowels Permutation](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge-2021/608/week-1-july-1st-july-7th/3802/)
 5. [Reshape the Matrix](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge-2021/608/week-1-july-1st-july-7th/3803/)
 6. [Reduce Array Size to The Half](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge-2021/608/week-1-july-1st-july-7th/3804/)
+7. [Kth Smallest Element in a Sorted Matrix](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge-2021/608/week-1-july-1st-july-7th/3805/)
